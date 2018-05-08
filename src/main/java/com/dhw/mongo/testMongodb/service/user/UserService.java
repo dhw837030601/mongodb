@@ -1,4 +1,4 @@
-package com.dhw.mongo.testMongodb.service;
+package com.dhw.mongo.testMongodb.repository;
 
 import com.dhw.mongo.testMongodb.bean.User;
 import org.springframework.stereotype.Repository;

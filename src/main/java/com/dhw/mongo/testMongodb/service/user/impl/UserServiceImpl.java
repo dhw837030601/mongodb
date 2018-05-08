@@ -1,8 +1,8 @@
-package com.dhw.mongo.testMongodb.service.impl;
+package com.dhw.mongo.testMongodb.repository;
 
 import com.dhw.mongo.testMongodb.bean.User;
 import com.dhw.mongo.testMongodb.repository.UserRepository;
-import com.dhw.mongo.testMongodb.service.UserService;
+import com.dhw.mongo.testMongodb.repository.UserService;
 import com.mongodb.client.result.DeleteResult;
 import com.mongodb.client.result.UpdateResult;
 import org.apache.commons.lang3.StringUtils;

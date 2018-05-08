@@ -1,7 +1,7 @@
 package com.dhw.mongo.testMongodb.controller;
 
 import com.dhw.mongo.testMongodb.bean.User;
-import com.dhw.mongo.testMongodb.service.UserService;
+import com.dhw.mongo.testMongodb.repository.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
